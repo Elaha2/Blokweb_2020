@@ -36,9 +36,11 @@ Markdown cheat cheet: **[Hulp bij het schrijven van Markdown](https://github.com
 
 ### Stand van zaken
 
--dit ging goed & dit was lastig-
+-dit ging goed: Voor het eerste lukte het om probelem zelf op te lossen, in plaats van iemand anders te laten proberen en alleen mee te kijken. 
 
-**Screenshot(s):**
+dit was lastig: Het lukte maar niet om de navigatie balk over de hele breedte te weergeven.-
+
+![alt text][screenshot_probleem]
 
 -screenshot(s) van hoe ver je bent-
 
