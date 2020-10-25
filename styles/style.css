@@ -1,32 +1,31 @@
-CSS Document 
-* {
-  box-sizing:border-box;  
-  margin: 0;
-  padding: 0;
+CSS Document * {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
 }
 
-
-a{
-    text-decoration: none;   
+/* nav list */
+a {
+    text-decoration: none;
 }
 
-li{
+li {
     list-style-type: none;
 }
 
 
-i{
-    color:white;
+i {
+    color: white;
     font-size: 1.2em;
 }
 
 
-header{
+header {
     margin: 0 auto;
 }
 
 
-nav ul{
+nav ul {
     display: flex;
     justify-content: space-between;
     background: #111111;
@@ -35,30 +34,31 @@ nav ul{
     top: 0;
     left: 0;
     right: 0;
-   
+
 }
 
-.fa-user-circle{
+.fa-user-circle {
     color: #4a90e2;
 }
 
-h2{
+/*main*/
+
+h2 {
     color: white;
-    position: relative;
     margin-bottom: -0.7em;
     margin-top: 0;
     margin-left: 0.3em;
     position: relative;
 }
 
-main article p{
+main article p {
     color: white;
     position: relative;
     margin-left: 0.3em;
-     
+
 }
 
-.fa-play-circle{
+.fa-play-circle {
     color: #ff3746;
     position: relative;
     font-size: 2em;
@@ -69,39 +69,169 @@ main article p{
     margin-left: 0.3em;
 }
 
-article img{
-max-width: 100vw;
-position: absolute;
-   
+article img {
+    max-width: 100vw;
+    position: absolute;
+
 }
 
-body{
-   background-color: #111111;
-   margin: 0;
+/*body*/
+
+body {
+    background-color: #111111;
+    margin: 0;
 }
 
-.fa-chevron-right{
+.fa-chevron-right {
     color: #ff3746;
     margin-left: 0.5em;
-    
+
 }
 
-section p{
+section h3 {
     color: white;
     position: relative;
     margin-left: 0.3em;
+    font-size: 1em;
+    margin-bottom: 0.5em;
 }
 
-section ul{
+section ul {
     margin: 0 auto;
     padding: 0;
     display: flex;
     justify-content: space-between;
 }
 
-section li img{
+section li img {
     width: 7em;
     height: auto;
 }
 
+/*footer*/
 
+footer{
+    background-color: #111111;
+     bottom: 0;
+     height: 230px;
+     border-top-width: 3px;
+     border-top-style: solid;
+     border-top-color: #FFF;
+      
+}
+
+
+footer li{
+    color: white;
+    font-size: 1em;
+    line-height: 0.7em;
+    text-align: left;
+    width: 11em;
+    margin-left: -1em
+}
+
+footer p img{
+    margin-left: 16em;
+    
+    
+}
+
+h4{
+    color: #4a90e2;
+    font-size: 1em;
+    text-align: left;
+    width: 11.9em;
+    margin-left: 1.4em;
+}
+  
+    
+/*detail pagina*/    
+    
+main section h5{
+    color: white;
+    position: relative;
+    margin-left: 4em;
+    font-size: 1em;   
+}
+
+.fa-arrow-left{
+    margin-left: -4em;
+}
+
+/*img detail pagina*/
+.klein{
+    /*width: 7em;
+    margin-left: 1.5em;
+    margin-top: -11em;*/
+    position: absolute;
+    width: 7em;
+    top: 10em;
+    left: 1.5em;
+}
+
+main section article h2{
+    /*width: 8em;
+    margin-left: 6em;*/
+    
+    margin-left: 1em;
+
+    
+}
+
+main section article p{
+    /*margin-left: 9em;
+    width: 14em;*/
+    
+    width: 14em;
+    position: absolute;
+    left: 9em;
+    top: 12em;
+}
+
+h6{
+    color: white;
+    font-size: 1em;
+    position: absolute;
+    left: 1.5em;
+    top: 19em;
+}
+
+#stars{
+    width: 9em;
+    margin-left: 1.2em;
+    position: absolute;
+    top: 23em;
+}
+
+button{
+    position: absolute;
+    left: 1.4em;
+    top: 31em;
+    width: 10em;
+    height: 1.9em;
+    border-radius: 11px;
+    background-color: #ff3746;
+    color: white;
+}
+
+.add{
+    position: absolute;
+    top: 34em;
+    width: 15em;
+    height: 2.3em;
+    border-radius: 15px;
+    background-color: dimgray;
+    color: white;
+}
+ 
+header img{
+    width: 1.2em;
+    position: absolute;
+    left: 17em;
+    top: 1.6em;
+}
+
+.een{
+    visibility: hidden;
+
+}
