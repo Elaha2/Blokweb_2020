@@ -33,7 +33,7 @@ dit was lastig: Ik liep vast omdat ik een slider wilde maken maar dit was te ing
 
 ![alt text][screenshot_probleem]
 
-![screenshot (s)](images/videoland_geen_footer)
+![screenshot (s)](images/videoland_geen_footer.png)
 
 
 ### Verslag van meeting
@@ -51,7 +51,7 @@ dit was lastig: Aan de rechter kant van de website bleef er maar een leeg stukje
 
 ![alt text][screenshot_probleem]
 
-![screenshot (s)](images/header_videoland)
+![screenshot (s)](images/header_videoland.png)
 
 
 
