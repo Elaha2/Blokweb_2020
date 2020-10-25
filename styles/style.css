@@ -41,6 +41,12 @@ nav ul {
     color: #4a90e2;
 }
 
+header nav img{
+    width: 5em;
+    position: absolute;
+    left: 4em;
+}
+
 /*main*/
 
 h2 {
